@@ -1,2 +1,2 @@
 # first-test
-First test of this thing for the masters
+First test of Git for the masters
